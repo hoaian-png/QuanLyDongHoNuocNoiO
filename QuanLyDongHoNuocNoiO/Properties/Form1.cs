@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLyDongHoNuocNoiO
+namespace QuanLyDongHoNuocNoiO.Properties
 {
     public partial class Form1 : Form
     {
