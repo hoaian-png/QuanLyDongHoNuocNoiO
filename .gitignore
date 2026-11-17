@@ -9,3 +9,5 @@ obj/
 
 # Debug
 *.cache
+# NuGet packages
+packages/
